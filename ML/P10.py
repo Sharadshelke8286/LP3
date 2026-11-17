@@ -1,3 +1,4 @@
+# https://www.kaggle.com/datasets/kyanyoga/sample-sales-data?utm_source=chatgpt.com
 import pandas as pd
 import matplotlib.pyplot as plt
 from sklearn.preprocessing import StandardScaler
