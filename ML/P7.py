@@ -1,3 +1,4 @@
+# https://www.kaggle.com/datasets/balaka18/email-spam-classification-dataset-csv?utm_source=chatgpt.com
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.feature_extraction.text import TfidfVectorizer
