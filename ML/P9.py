@@ -1,3 +1,4 @@
+# https://www.kaggle.com/mragpavank/pima-indians-diabetes-database/data?utm_source=chatgpt.com
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler
