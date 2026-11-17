@@ -11,7 +11,7 @@
 #
 # Run each cell separately in Jupyter Notebook using Shift + Enter.
 # This file can also be run directly in VS Code.
-
+# pip install pandas scikit-learn matplotlib
 # %%
 # STEP 1: Import required libraries
 
