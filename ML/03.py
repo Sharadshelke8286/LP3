@@ -1,4 +1,4 @@
-
+Bank Customer Churn Prediction Using Neural Network
 # %% Cell 1: Import Libraries
 
 import numpy as np
