@@ -1,6 +1,6 @@
 Bank Customer Churn Prediction Using Neural Network
 # %% Cell 1: Import Libraries
-
+# pip install numpy pandas matplotlib scikit-learn tensorflow
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
